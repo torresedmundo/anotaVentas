@@ -1,10 +1,24 @@
+baseDatos = [];
 
+
+
+
+
+
+
+
+
+
+
+/* 
 let baseDatos = [];
 let carroCompras = [];
 let bdLocal =[];
 extraerLocal();
-mostrarInventario();
-// AGREGAR AL INVENTARIO
+mostrarInventario();å
+
+
+// Agregar Calculo 
 let btnAgregar = document.getElementById("botonAgregarInventario");
 btnAgregar.addEventListener("click", (e) => {
     e.preventDefault();
