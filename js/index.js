@@ -1,4 +1,4 @@
-baseDatos = [];
+//baseDatos = [];
 
 
 
